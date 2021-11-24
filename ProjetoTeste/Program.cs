@@ -6,6 +6,7 @@ namespace ProjetoTeste {
             Console.WriteLine("Ola Galera");
             Console.WriteLine("Bom Dia");
             Console.WriteLine("Como voce esta hoje? ");
+            Console.WriteLine("oioi");
         }
     }
 }
