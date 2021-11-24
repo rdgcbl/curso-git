@@ -3,7 +3,8 @@
 namespace ProjetoTeste {
     class Program {
         static void Main(string[] args) {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Ola Galera");
+            Console.WriteLine("Bom Dia");
         }
     }
 }
