@@ -48,7 +48,7 @@
  git push
 -------------------------------------------------------------------------------------------------------------
   *Como transferir um projeto que esta no github(nuvem) para a minha maquina(PC)
- git clone 
+ git clone https://github.com/rdgcbl/curso-git.git
 
 
 
