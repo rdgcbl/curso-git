@@ -1,9 +1,8 @@
 ﻿/*
-  1° Passo
-    -criar um gitignore na pasta inicial do repositorio
-    -ren gitignore.txt .gitignore // para renomear o arquivo txt para .gitignore
-    -no gitbash digite 
-        git init
+  *Passo a Passo
+    -instalar o gitbash
+    -criar um gitignore na pasta inicial do repositorio 'ren gitignore.txt .gitignore' // para renomear o arquivo txt para .gitignore
+    -no gitbash digite 'git init'
     -defina quem voce é
         git config -- global user.name "Rodrigo Kipper" // grava meu nome
         git config -- global user.email "rodrigo@hot.." // grava meu email
@@ -11,6 +10,8 @@
         git remote add origin https://github.com/rdgcbl/curso-udemy-c-.git
 
         git push -u origin master
+
+        git push
 ------------------------------------------------------------------------------------------------------------- 
   git add .                          // esse comando grava e fica pronto para commitar
   git status                         // verifica se esta untracked(vermelho) e staged(verde) depois eh soh "add."
@@ -49,13 +50,14 @@
 -------------------------------------------------------------------------------------------------------------
   *Como transferir um projeto que esta no github(nuvem) para a minha maquina(PC)
  git clone https://github.com/rdgcbl/curso-git.git
-
-
-
 -------------------------------------------------------------------------------------------------------------
-
+  *Como atualizar um projeto que outra pessoa esta ajudando a fazer
+ git pull origin master
+  *dessa maneira seu colega fez alteracoes no github e vc usou o comando 'pull'
+  para atualizar o projeto do seu 'PC'
 -------------------------------------------------------------------------------------------------------------
-
+FINALIZADO GIT HUB
+iniciando repositorio curso udemy c#
 -------------------------------------------------------------------------------------------------------------
 
 */
