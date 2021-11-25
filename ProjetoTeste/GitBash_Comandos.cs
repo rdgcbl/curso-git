@@ -1,6 +1,16 @@
 ﻿/*
-  git config -- global user.name "Rodrigo Kipper" // grava meu nome
-  git config -- global user.email "rodrigo@hot.." // grava meu email
+  1° Passo
+    -criar um gitignore na pasta inicial do repositorio
+    -ren gitignore.txt .gitignore // para renomear o arquivo txt para .gitignore
+    -no gitbash digite 
+        git init
+    -defina quem voce é
+        git config -- global user.name "Rodrigo Kipper" // grava meu nome
+        git config -- global user.email "rodrigo@hot.." // grava meu email
+
+        git remote add origin https://github.com/rdgcbl/curso-udemy-c-.git
+
+        git push -u origin master
 ------------------------------------------------------------------------------------------------------------- 
   git add .                          // esse comando grava e fica pronto para commitar
   git status                         // verifica se esta untracked(vermelho) e staged(verde) depois eh soh "add."
@@ -37,7 +47,8 @@
    (digitar no GitBash)
  git push
 -------------------------------------------------------------------------------------------------------------
-  *
+  *Como transferir um projeto que esta no github(nuvem) para a minha maquina(PC)
+ git clone 
 
 
 
