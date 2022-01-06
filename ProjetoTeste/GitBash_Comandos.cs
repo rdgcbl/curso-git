@@ -2,7 +2,17 @@
   *Passo a Passo
     -instalar o gitbash
     -criar um gitignore na pasta inicial do repositorio 'ren gitignore.txt .gitignore' // para renomear o arquivo txt para .gitignore
-    -no gitbash digite 'git init'
+    -no gitbash digite 
+    
+    1° git init
+  1.2° git config -- global user.name "Rodrigo Kipper" // grava meu nome           //Se nao estiver cadastrado, precisa cadastrar
+  1.3° git config -- global user.email "rodrigo@hot.." // grava meu email          //Se nao estiver cadastrado, precisa cadastrar
+    2º git add .
+    3º git comit -m "Concluido"
+    4° git remote add origin https://github.com/rdgcbl/curso-udemy-c-.git
+    5° git push -u origin master
+    6º FINISH
+    
     -defina quem voce é
         git config -- global user.name "Rodrigo Kipper" // grava meu nome
         git config -- global user.email "rodrigo@hot.." // grava meu email
