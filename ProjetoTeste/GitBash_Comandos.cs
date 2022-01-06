@@ -11,18 +11,11 @@
     3º git comit -m "Concluido"
     4° git remote add origin https://github.com/rdgcbl/curso-udemy-c-.git
     5° git push -u origin master
-    6º FINISH
-    
-    -defina quem voce é
-        git config -- global user.name "Rodrigo Kipper" // grava meu nome
-        git config -- global user.email "rodrigo@hot.." // grava meu email
-
-        git remote add origin https://github.com/rdgcbl/curso-udemy-c-.git
-
-        git push -u origin master
-
-        git push
+    6º FINISH    
+        
 ------------------------------------------------------------------------------------------------------------- 
+  git push -u origin master          // mandar as informacoes para o github pela primeira ves
+  git push                           // mandar as informacoes para o gihub depois de ja ter mandado
   git add .                          // esse comando grava e fica pronto para commitar
   git status                         // verifica se esta untracked(vermelho) e staged(verde) depois eh soh "add."
   git commit -m "O que foi feito     // ele faz o commit, faz o registro
