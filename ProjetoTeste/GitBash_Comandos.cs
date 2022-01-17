@@ -11,7 +11,8 @@
     3º git comit -m "Concluido"
     4° git remote add origin https://github.com/rdgcbl/curso-udemy-c-.git
     5° git push -u origin master
-    6º FINISH    
+    6º senha git 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
+    7º FINISH    
         
 ------------------------------------------------------------------------------------------------------------- 
   git push -u origin master          // mandar as informacoes para o github pela primeira ves
